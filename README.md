@@ -8,7 +8,7 @@
    - Configured with public and private subnets across two availability zones for enhanced reliability and fault tolerance.
 
 2. **Internet Gateway**:
-   - Facilitates connectivity between VPC instances and the wider Internet.
+   - Facilitates connectivity between VPC instances and the Internet.
 
 3. **Security Groups**:
    - Acts as a network firewall mechanism to control traffic to EC2 instances.
